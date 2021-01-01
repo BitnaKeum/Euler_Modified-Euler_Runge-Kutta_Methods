@@ -1,7 +1,6 @@
-# Euler_Modified-Euler_Runge-Kutta_Methods
-
-
-f(ti, wi) = wi - ti^2 + 1  ( Range : [0, 2] )
+# Euler's method, Modified Euler's method, Runge-Kutta method of order 4
+<br><br>
+f(ti, wi) = wi - ti^2 + 1
 <br><br>
 
 <h3>Result</h3>
